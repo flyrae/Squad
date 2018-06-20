@@ -1,0 +1,35 @@
+机器理解/阅读：
+  1.链接https://github.com/allenai/bi-att-flow
+    方法：双向注意力机制
+
+  2.链接：
+  https://github.com/NLPLearn/QANet
+    方法:self-attention
+
+  3.链接：
+  https://github.com/HKUST-KnowComp/R-Net
+    方法：R-NET
+
+  4.链接：https://github.com/hpk23/SQuAD-FusionNet
+    方法：fusionNet
+  5.链接：https://github.com/chrischute/squad-transformer
+    方法： Google paper： attention is all your need
+  6.链接：https://github.com/robinjia/adversarial-squad
+    方法：加入了对抗方法(https://worksheets.codalab.org/worksheets/0xc86d3ebe69a3427d91f9aaa63f7d1e7d/)
+
+问答：
+  1.链接：https://github.com/MurtyShikhar/Question-Answering
+    方法：vae+lstm+attention
+  2.链接：https://github.com/jind11/SQuAD-QA-System
+    方法：attention+decoding
+  3.链接：https://github.com/aswalin/SQuAD
+    方法：lstm,(监督/半监督)
+
+
+工具：
+  1.链接：https://github.com/salmedina/SQuAD
+    作用：提取topic
+  2.链接：https://github.com/stanford-futuredata/dawn-bench-entries#squad-inference
+    作用：评价结果，计算几个评价值
+  3.链接：https://github.com/insikk/SQuAD_exploration
+    作用：浏览数据集，从多个角度看数据
